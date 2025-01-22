@@ -165,7 +165,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://pikbest.com/png-images/school-vector-design-logo-4_10739082.html",
+    img: "https://ayushdubey.netlify.app/static/media/Dr.kp.1425b4ffca1a89eb590d.png",
     school: "Dr kp Jaiswal Inter college, Prayagraj",
     date: "Apr 2019 - Apr 2020",
     desc: "I completed my class 12 high school education at Dr kp Jaiswal Inter collegel, Prayagraj, where I studied Science Side.",
@@ -173,7 +173,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "http://localhost:3001/static/media/Indira.e0f9a1dac59a6ac9f5f6.png",
+    img: "https://ayushdubey.netlify.app/static/media/Indira.e0f9a1dac59a6ac9f5f6.png",
     school: "Indra Subash Inter College, Sultanpur",
     date: "Apr 2019 - Apr 2020",
     grade: "92.3%",
