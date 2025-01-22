@@ -277,8 +277,13 @@ export const projects = [
     tags: [
       "React Js",
       "Tailwind CSS",
-      "Three.js",
+      "GSAP (Greensock)",
+      "React Three Drei",
+      "GSAP (Greensock)",
+      "React Three Fiber",
+      "Vite",
       "Vercel"
+      
     ],
     category: "Frontend Projects | Based on UI design",
     github: "https://github.com/assiayussiri659/IPhone-UI/tree/main",
