@@ -140,7 +140,7 @@ export const experiences = [
     role: "Full stack Developer Intern",
     company: "Rudraksha Welffare Foundation",
     date: "June 2024 - Oct 2024",
-    desc: "As a Full Stack Developer Intern at Rudraksha Welfare Foundation from June 2024 to October 2024, I gained extensive hands-on experience in web application development. During my tenure, I contributed to building and optimizing the application's back-end using Firebase, implementing scalable cloud functions, and managing real-time data. On the front-end, I developed features by translating Figma designs into responsive and user-friendly interfaces, ensuring a clean and modular code structure.Additionally, I integrated a one-to-one video call feature, conceptualized new functionalities, and optimized the web application's performance and user experience. This internship allowed me to enhance my skills in full-stack web development and provided valuable experience working collaboratively in a team-oriented environment.",
+    desc: "As a Full Stack Developer Intern at Rudraksha Welfare Foundation from June 2024 to October 2024, I gained extensive hands-on experience in web application development. During my tenure, I contributed to building and optimizing the application's back-end using Firebase, implementing scalable cloud functions, and managing real-time data. On the front-end, I developed features by translating Figma designs into responsive and user-friendly interfaces, ensuring a clean and modular code structure.Additionally, I integrated a one-to-one video call feature, conceptualized new functionalities, and optimized the web application's performance and user experience. This internship allowed me to enhance my skills in full-stack web development and provided valuable experience working collaboratively in a team-oriented environment",
     skills: [
       "Full Stack",
       "React.js",
@@ -165,7 +165,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "http://localhost:3001/static/media/Dr.kp.1425b4ffca1a89eb590d.png",
+    img: "https://kpic.co.in/images/logo.jpg",
     school: "Dr kp Jaiswal Inter college, Prayagraj",
     date: "Apr 2019 - Apr 2020",
     desc: "I completed my class 12 high school education at Dr kp Jaiswal Inter collegel, Prayagraj, where I studied Science Side.",
