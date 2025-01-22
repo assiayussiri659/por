@@ -268,6 +268,24 @@ export const projects = [
   },
   {
     id: 10,
+    title: "iPhone UI Clone",
+    date: "Apr 2024 - May 2024",
+    description:
+      "This project is a visually captivating and highly responsive clone of the iPhone UI, showcasing the power of modern web technologies like React, Tailwind CSS, and Three.js. The design is inspired by Apple's iconic style, featuring smooth animations and an intuitive user interface.",
+    image:
+      "https://ayushdubey.netlify.app/static/media/IPhone.991d66bf5af38848fd87.png",
+    tags: [
+      "React Js",
+      "Tailwind CSS",
+      "Three.js",
+      "Vercel"
+    ],
+    category: "Frontend Projects | Based on UI design",
+    github: "https://github.com/assiayussiri659/IPhone-UI/tree/main",
+    webapp: "https://i-phone-ui.vercel.app/",
+  },
+  {
+    id: 10,
     title: "Foodie Project - Frontend UI Design",
     date: "Apr 2024 - May 2024",
     description:
