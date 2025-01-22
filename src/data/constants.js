@@ -165,7 +165,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://kpic.co.in/images/logo.jpg",
+    img: "https://pikbest.com/png-images/school-vector-design-logo-4_10739082.html",
     school: "Dr kp Jaiswal Inter college, Prayagraj",
     date: "Apr 2019 - Apr 2020",
     desc: "I completed my class 12 high school education at Dr kp Jaiswal Inter collegel, Prayagraj, where I studied Science Side.",
