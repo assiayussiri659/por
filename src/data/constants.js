@@ -261,7 +261,7 @@ export const projects = [
       "Bootstrap",
       "firebase",
       "Vercel",
-      "Vite"
+      "Vite",
     ],
     category: "E-commerce applications",
     github: "https://github.com/assiayussiri659/soping-wep-page",
