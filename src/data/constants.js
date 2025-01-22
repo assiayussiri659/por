@@ -13,7 +13,6 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/ayush-dubey-752a35232/",
   twitter: "https://x.com/Ayushdubey33957",
   insta: "https://www.instagram.com/ayushdubey7822/",
-  github: "https://github.com/assiayussiri659",
 };
 
 export const skills = [
