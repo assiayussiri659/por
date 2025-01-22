@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile full stack developer, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results across both frontend and backend development. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/assiayussiri659",
   resume:
-    "https://drive.google.com/file/d/1ohD8cOxj_myqKY2b_d4D-fPZCDuflHr3/view?usp=sharing",
+    "https://drive.google.com/file/d/13RuiFtjglYk9fvepqiWwxEOL4MNGamX1/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ayush-dubey-752a35232/",
   twitter: "https://x.com/Ayushdubey33957",
   insta: "https://www.instagram.com/ayushdubey7822/",
@@ -166,7 +166,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "http://localhost:3002/static/media/Dr.kp.1425b4ffca1a89eb590d.png",
+    img: "http://localhost:3001/static/media/Dr.kp.1425b4ffca1a89eb590d.png",
     school: "Dr kp Jaiswal Inter college, Prayagraj",
     date: "Apr 2019 - Apr 2020",
     desc: "I completed my class 12 high school education at Dr kp Jaiswal Inter collegel, Prayagraj, where I studied Science Side.",
@@ -174,7 +174,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "http://localhost:3002/static/media/Indira.e0f9a1dac59a6ac9f5f6.png",
+    img: "http://localhost:3001/static/media/Indira.e0f9a1dac59a6ac9f5f6.png",
     school: "Indra Subash Inter College, Sultanpur",
     date: "Apr 2019 - Apr 2020",
     grade: "92.3%",
@@ -191,7 +191,7 @@ export const projects = [
     description:
       "Gemini AI is a full-stack web application designed to integrate artificial intelligence capabilities with a user-friendly interface, enabling personalized experiences for its users. The project leverages modern web development technologies and a robust backend architecture to deliver a responsive and intuitive platform that combines AI functionalities with efficient data management.",
     image:
-      "http://localhost:3002/static/media/Gemini.bd31c66204e0cb014fe0.png",
+      "http://localhost:3001/static/media/Gemini.bd31c66204e0cb014fe0.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -203,7 +203,6 @@ export const projects = [
       "JSON Web Tokens (JWT)",
       "netlify"
     ],
-    category: "E-commerce applications",
     github: "https://github.com/assiayussiri659/gemini",
     webapp: "https://rad-pudding-6d7303.netlify.app/",
   },
@@ -224,17 +223,18 @@ export const projects = [
       "Tailwind CSS",
       "Vercel"
     ],
+    category: "E-commerce applications",
     github: "https://github.com/assiayussiri659/E-commerce-food-application",
     webapp: "https://e-commerce-food-application.vercel.app/",
   },
   {
     id: 11,
     title: "Crypto Dashboard Project",
-    date: "Jun 2024 - Jul 2024",
+    date: "Mar 2024 - Apr 2024",
     description:
       "Developed a comprehensive crypto dashboard using React.js for a responsive user interface and Tailwind CSS for modern design. Integrated Coingecko API to fetch and display real-time cryptocurrency data. Utilized Recharts to create interactive and dynamic charts for data visualization. Enhanced UI with fonts from Google Fonts and icons from Iconify to ensure a polished and user-friendly experience.",
     image:
-      "http://localhost:3002/static/media/Crypto.65836f4beaa2979e4373.png",
+      "https://ayushdubey.netlify.app/static/media/Crypto.65836f4beaa2979e4373.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -245,6 +245,44 @@ export const projects = [
     ],
     github: "https://github.com/assiayussiri659/Crypto",
     webapp: "https://crypto-bucks.netlify.app/",
+  },
+  {
+    id: 10,
+    title: "Shopping Web Application",
+    date: "Apr 2024 - May 2024",
+    description:
+      "Developed a responsive and dynamic e-commerce platform allowing users to browse, search, and purchase products. Implemented real-time database operations and user authentication using Firebase. Leveraged Vite for faster development and optimized build processes. Styled the application using Tailwind CSS to create a modern and consistent user interface. Deployed the application on Vercel, ensuring seamless integration and continuous deployment.",
+    image:
+      "https://ayushdubey.netlify.app/static/media/soping-cost.88e051d9439272dd34d4.png",
+    tags: [
+      "React Js",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "firebase",
+      "Vercel",
+      "Vite"
+    ],
+    category: "E-commerce applications",
+    github: "https://github.com/assiayussiri659/soping-wep-page",
+    webapp: "https://soping-wep-page.vercel.app/",
+  },
+  {
+    id: 10,
+    title: "Foodie Project - Frontend UI Design",
+    date: "Apr 2024 - May 2024",
+    description:
+      "The Foodie Project is an innovative and comprehensive online food ordering system designed to simplify and enhance the food ordering experience for users. This system allows customers to order their favorite meals from local restaurants through a user-friendly platform.",
+    image:
+      "https://ayushdubey.netlify.app/static/media/foodie.d786eb482fc5ef336faa.png",
+    tags: [
+      "React Js",
+      "Tailwind CSS",
+      "Netlify"
+    ],
+    category: "Frontend Projects | Based on UI design",
+    github: "https://github.com/assiayussiri659/Food-Order/tree/main",
+    webapp: "https://orderr.netlify.app/",
   },
 ];
 
