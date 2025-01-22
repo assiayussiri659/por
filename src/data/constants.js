@@ -299,7 +299,7 @@ export const projects = [
     ],
     category: "Frontend Projects | Based on UI design",
     github: "https://github.com/assiayussiri659/Shopsy/tree/main",
-    webapp: "shopsy-6oal3cwss-assiayussiri659s-projects.vercel.app",
+    webapp: "https://shopsy-6oal3cwss-assiayussiri659s-projects.vercel.app/",
   },
 ];
 
