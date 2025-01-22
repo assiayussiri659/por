@@ -283,6 +283,24 @@ export const projects = [
     github: "https://github.com/assiayussiri659/Food-Order/tree/main",
     webapp: "https://orderr.netlify.app/",
   },
+  {
+    id: 10,
+    title: "Shopsy - E-commerce Platform",
+    date: "May 2024 - Jun 2024",
+    description:
+      "Shopsy is a user-friendly and visually engaging e-commerce platform that simulates an online shopping experience. Built with React.js, the project features a seamless interface for browsing products, adding items to the cart, and checking out. The use of Tailwind CSS ensures a highly responsive design, while Material-UI (MUI) provides consistent and well-designed UI elements throughout. The platform adapts to different screen sizes, making it accessible on both desktop and mobile devices. This project demonstrates your expertise in building responsive, dynamic e-commerce applications with modern web technologies.",
+    image:
+      "https://ayushdubey.netlify.app/static/media/Shopsy.3883f64e2486975df135.png",
+    tags: [
+      "React Js",
+      "Tailwind CSS",
+      "Material-UI (MUI)",
+      "vercel",
+    ],
+    category: "Frontend Projects | Based on UI design",
+    github: "https://github.com/assiayussiri659/Shopsy/tree/main",
+    webapp: "shopsy-6oal3cwss-assiayussiri659s-projects.vercel.app",
+  },
 ];
 
 
