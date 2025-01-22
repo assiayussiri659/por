@@ -190,7 +190,7 @@ export const projects = [
     description:
       "Gemini AI is a full-stack web application designed to integrate artificial intelligence capabilities with a user-friendly interface, enabling personalized experiences for its users. The project leverages modern web development technologies and a robust backend architecture to deliver a responsive and intuitive platform that combines AI functionalities with efficient data management.",
     image:
-      "http://localhost:3001/static/media/Gemini.bd31c66204e0cb014fe0.png",
+      "https://ayushdubey.netlify.app/static/media/Gemini.bd31c66204e0cb014fe0.png",
     tags: [
       "React Js",
       "MongoDb",
