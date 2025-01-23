@@ -109,15 +109,15 @@ export const HeroRightContainer = styled.div`
   }
 `;
 
-
 export const Img = styled.img`
   position: relative;
   width: 100%;
   height: 100%;
   max-width: 400px;
   max-height: 400px;
-  border-radius: 50%;
+  border-radius: 50%; /* Ensures the image is perfectly circular */
   border: 2px solid ${({ theme }) => theme.primary};
+  object-fit: cover; /* Ensures the image fills its container without distortion */
 
   @media (max-width: 768px) {
     max-width: 400px;
@@ -129,6 +129,7 @@ export const Img = styled.img`
     max-height: 280px;
   }
 `;
+
 
 export const Title = styled.div`
   font-weight: 700;
