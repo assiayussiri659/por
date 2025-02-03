@@ -185,21 +185,19 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Gemini AI",
+    title: "AI-Powered Web Application",
     date: "Nov 2024 - Dec 2024",
     description:
-      "Gemini AI is a full-stack web application designed to integrate artificial intelligence capabilities with a user-friendly interface, enabling personalized experiences for its users. The project leverages modern web development technologies and a robust backend architecture to deliver a responsive and intuitive platform that combines AI functionalities with efficient data management.",
+      "Developed an AI-powered web application using React.js for the frontend and Tailwind CSS for a modern, responsive design.Integrated Node.js and Express for user authentication and secure API endpoints, ensuring a safe and smooth user experience.Utilized MongoDB for efficient data storage and management, enhancing the application's scalability.Implemented Google’s Gemini API, leveraging Large Language Models (LLMs) to provide AI-driven responses and interactive functionalities.Optimized API requests with caching (Redis) to improve performance and reduce response times.Focused on performance optimization and maintaining clean, modular code for better maintainability.",
     image:
-      "https://ayushdubey.netlify.app/static/media/Gemini.bd31c66204e0cb014fe0.png",
+      "https://ayushdubey.netlify.app/static/media/Gemini.0b768747ac6e872d6491.png",
     tags: [
       "React Js",
       "MongoDb",
       "Node Js",
       "Express Js",
-      "Redux",
       "Tailwind CSS",
-      "Gemini API",
-      "JSON Web Tokens (JWT)",
+      "Google Gemini API (LLM)",
       "netlify"
     ],
     github: "https://github.com/assiayussiri659/gemini",
@@ -260,7 +258,7 @@ export const projects = [
       "Bootstrap",
       "firebase",
       "Vercel",
-      "Vite",
+      "Vite"
     ],
     category: "E-commerce applications",
     github: "https://github.com/assiayussiri659/soping-wep-page",
@@ -323,7 +321,7 @@ export const projects = [
     category: "Frontend Projects | Based on UI design",
     github: "https://github.com/assiayussiri659/Shopsy/tree/main",
     webapp: "https://shopsy-6oal3cwss-assiayussiri659s-projects.vercel.app/",
-  },
+  }
 ];
 
 
