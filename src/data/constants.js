@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Ayush Dubey",
   roles: [
-    "Full Stack Developer",
+    "Full Stack software Developer",
     "Mern Stack Developer",
     "Programmer",
   ],
@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile full stack developer, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results across both frontend and backend development. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/assiayussiri659",
   resume:
-    "https://drive.google.com/file/d/1A6VOeJzDx4WL28iEMjeMH7vGAlywnQvY/view?usp=sharing",
+    "https://drive.google.com/file/d/1zq1ZMyKf48bz28xuIqERxO4kwv9dKmug/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ayush-dubey-752a35232/",
   twitter: "https://x.com/Ayushdubey33957",
   insta: "https://www.instagram.com/ayushdubey7822/",
