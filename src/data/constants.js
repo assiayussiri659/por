@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Ayush Dubey",
   roles: [
-    "Full Stack software Developer",
+    "Full Stack Developer",
     "Mern Stack Developer",
     "Programmer",
   ],
@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile full stack developer, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results across both frontend and backend development. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/assiayussiri659",
   resume:
-    "https://drive.google.com/file/d/1zq1ZMyKf48bz28xuIqERxO4kwv9dKmug/view?usp=sharing",
+    "https://drive.google.com/file/d/1jRLlXA6tWgAlAzW8fobg9EwA7okUSlC9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ayush-dubey-752a35232/",
   twitter: "https://x.com/Ayushdubey33957",
   insta: "https://www.instagram.com/ayushdubey7822/",
@@ -136,11 +136,11 @@ export const skills = [
 export const experiences = [
   {
     id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
+    img: "",
     role: "Full stack Developer Intern",
-    company: "Rudraksha Welffare Foundation",
+    company: " Inclination IT Innovation Pvt Ltd",
     date: "June 2024 - Oct 2024",
-    desc: "As a Full Stack Developer Intern at Rudraksha Welfare Foundation from June 2024 to October 2024, I gained extensive hands-on experience in web application development. During my tenure, I contributed to building and optimizing the application's back-end using Firebase, implementing scalable cloud functions, and managing real-time data. On the front-end, I developed features by translating Figma designs into responsive and user-friendly interfaces, ensuring a clean and modular code structure.Additionally, I integrated a one-to-one video call feature, conceptualized new functionalities, and optimized the web application's performance and user experience. This internship allowed me to enhance my skills in full-stack web development and provided valuable experience working collaboratively in a team-oriented environment",
+    desc: "As a Full Stack Developer Intern at Inclination IT Innovation Pvt Ltd, I gained extensive hands-on experience in web application development. During my tenure, I worked on designing, developing, and optimizing scalable applications, ensuring efficient backend operations and an intuitive front-end experience. I contributed to building a Learning Management System (LMS) with role-based access control, where students could purchase courses and admins could manage content. The system featured Stripe payment integration for secure transactions, automated certificate generation upon course completion, and a progress tracking system that required users to complete each video before unlocking the next. Using React.js and Tailwind CSS, I developed a responsive and user-friendly interface, while optimizing backend performance with Node.js, Express.js, and MongoDB to ensure seamless functionality. Collaborating with a team of developers, I played a key role in enhancing application performance, implementing new features, and ensuring an overall smooth user experience.",
     skills: [
       "Full Stack",
       "React.js",
