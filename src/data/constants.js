@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile full stack developer, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results across both frontend and backend development. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/assiayussiri659",
   resume:
-    "https://drive.google.com/file/d/1jRLlXA6tWgAlAzW8fobg9EwA7okUSlC9/view?usp=sharing",
+    "https://drive.google.com/file/d/1fZGCEllIvYX80XPND_fgH0T1mwS9dWxF/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ayush-dubey-752a35232/",
   twitter: "https://x.com/Ayushdubey33957",
   insta: "https://www.instagram.com/ayushdubey7822/",
@@ -137,10 +137,10 @@ export const experiences = [
   {
     id: 4,
     img: "",
-    role: "Full stack Developer Intern",
+    role: "Full stack Developer ",
     company: " Inclination IT Innovation Pvt Ltd",
-    date: "June 2024 - Oct 2024",
-    desc: "As a Full Stack Developer Intern at Inclination IT Innovation Pvt Ltd, I gained extensive hands-on experience in web application development. During my tenure, I worked on designing, developing, and optimizing scalable applications, ensuring efficient backend operations and an intuitive front-end experience. I contributed to building a Learning Management System (LMS) with role-based access control, where students could purchase courses and admins could manage content. The system featured Stripe payment integration for secure transactions, automated certificate generation upon course completion, and a progress tracking system that required users to complete each video before unlocking the next. Using React.js and Tailwind CSS, I developed a responsive and user-friendly interface, while optimizing backend performance with Node.js, Express.js, and MongoDB to ensure seamless functionality. Collaborating with a team of developers, I played a key role in enhancing application performance, implementing new features, and ensuring an overall smooth user experience.",
+    date: " Apr 2024 - Present",
+    desc: "Led the modernization of the company’s personal website by redeveloping it in React.js, enhancing user experience andinterface efficiency by 25%.Designed and implemented scalable backend solutions using Node.js, enabling seamless API integration and efficient datamanagement.Integrated MongoDB as the database management system, optimizing data storage and retrieval for improved performance.Deployed multiple web applications on AWS, leveraging its scalability, security, and high availability features.Collaborated with senior team members to develop and deploy MERN-based websites for clients, expanding the company'sportfolio and market presence",
     skills: [
       "Full Stack",
       "React.js",
@@ -150,6 +150,25 @@ export const experiences = [
       "Cloud Firestore",
       "Mongodb",
       "Figma",
+    ],
+  },
+  {
+    id: 4,
+    img: "",
+    role: "MERN stack Developer Intern",
+    company: " ",
+    date: "Nov 2023 - Feb 2024",
+    desc: "Worked on the product ‘Solar Energy Assistant Agent’ under senior guidance, contributing to its development and optimization.Gained hands-on experience in [ React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Google Gemini API (LLM), Redux Toolkit,LangChain].Developed [teamwork, problem-solving, communication].",
+    skills: [
+      "Full Stack",
+      "React.js",
+      "Node.js",
+      "Talwind CSS",
+      "Express.js",
+      "Google Gemini API (LLM),",
+      "Mongodb",
+      "Redux Toolkit",
+      "LangChain"
     ],
   },
 ];
