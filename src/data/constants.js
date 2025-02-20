@@ -156,7 +156,7 @@ export const experiences = [
     id: 4,
     img: "",
     role: "MERN stack Developer Intern",
-    company: " ",
+    company: "IT Training & Solutions",
     date: "Nov 2023 - Feb 2024",
     desc: "Worked on the product ‘Solar Energy Assistant Agent’ under senior guidance, contributing to its development and optimization.Gained hands-on experience in [ React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Google Gemini API (LLM), Redux Toolkit,LangChain].Developed [teamwork, problem-solving, communication].",
     skills: [
