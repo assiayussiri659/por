@@ -222,27 +222,27 @@ export const projects = [
     github: "https://github.com/assiayussiri659/gemini",
     webapp: "https://rad-pudding-6d7303.netlify.app/",
   },
-  {
-    id: 10,
-    title: "E-commerce-food-application",
-    date: "Apr 2024 - Jun 2024",
-    description:
-      "Developed a comprehensive E-commerce food application using React.js, designed to enhance user experience with features such as secure login, shopping cart, payment gateway integration, and real-time location services",
-    image:
-      "https://ayushdubey.netlify.app/static/media/e-food-app.38395e056fba692da949.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "Tailwind CSS",
-      "Vercel"
-    ],
-    category: "E-commerce applications",
-    github: "https://github.com/assiayussiri659/E-commerce-food-application",
-    webapp: "https://e-commerce-food-application.vercel.app/",
-  },
+  // {
+  //   id: 10,
+  //   title: "E-commerce-food-application",
+  //   date: "Apr 2024 - Jun 2024",
+  //   description:
+  //     "Developed a comprehensive E-commerce food application using React.js, designed to enhance user experience with features such as secure login, shopping cart, payment gateway integration, and real-time location services",
+  //   image:
+  //     "https://ayushdubey.netlify.app/static/media/e-food-app.38395e056fba692da949.png",
+  //   tags: [
+  //     "React Js",
+  //     "MongoDb",
+  //     "Node Js",
+  //     "Express Js",
+  //     "Redux",
+  //     "Tailwind CSS",
+  //     "Vercel"
+  //   ],
+  //   category: "E-commerce applications",
+  //   github: "https://github.com/assiayussiri659/E-commerce-food-application",
+  //   webapp: "https://e-commerce-food-application.vercel.app/",
+  // },
   {
     id: 11,
     title: "Crypto Dashboard Project",
